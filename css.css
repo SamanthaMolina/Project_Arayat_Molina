@@ -1,0 +1,121 @@
+body {
+	background-color: white;
+	margin: 0;
+}
+
+#navbar {
+	text-align: center;
+	padding-bottom: 5px;
+	border-bottom: solid;
+	border-bottom-width: 1px;
+}
+
+a {
+	border: solid white;
+	text-decoration: none;
+	color: gray;
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 17px;
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	margin-bottom: 0;
+}
+
+#bpoint {
+	display: inline;
+	color: gray;
+ }
+ 
+#first {
+	background-color: white;
+	padding-left: 50px;
+	width: 30%;
+	height: 500px;
+	display: inline-block;
+}
+
+#picone {
+	background-repeat: no-repeat;
+	float: right;
+}
+
+#welcome {
+	padding-top: 150px;
+	font-size: 75px;
+	text-align: left;
+	font-family: 'Playfair Display', serif;
+	margin-bottom: 0;
+}
+
+#greet {
+	margin-top: 0;
+	color: black;
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 20px;
+}
+
+#pictwo {
+	background-color: black;
+	background-repeat: no-repeat;
+	float: right;
+	height: 500px;
+}
+
+#second {
+	background-color: black;
+	padding-right: 50px;
+	width: 68%;
+	height: 500px;
+	display: inline-block;
+	float: right;
+}
+
+#welcomma {
+	padding-top: 150px;
+	font-size: 75px;
+	text-align: right;
+	font-family: 'Playfair Display', serif;
+	margin-bottom: 0;
+	color: white;
+}
+
+#greetwo {
+	text-align: right;
+	margin-top: 0;
+	color: white;
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 20px;
+}
+
+#third {
+	background-image: url('https://c1.wallpaperflare.com/preview/932/467/825/books-education-school-literature.jpg');
+	background-repeat: no-repeat;
+	background-size: 1550px 1143px;
+	background-position: right;
+	display: inline-block;
+	width: 100%;
+	height: 600px;
+}
+
+#welcompute {
+	padding-top: 200px;
+	font-size: 75px;
+	text-align: left;
+	font-family: 'Playfair Display', serif;
+	margin-bottom: 0;
+	color: black;
+	padding-left: 50px;
+}
+
+#greetwins {
+	text-align: left;
+	margin-top: 0;
+	color: black;
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 20px;
+	padding-left: 50px;
+}
