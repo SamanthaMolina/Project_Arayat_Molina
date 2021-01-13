@@ -17,7 +17,7 @@ body {
 	background-color: rgba(255, 255, 255, 80%);
 	margin-top: 145px;
 	position: center;
-	width: 90%;
+	width: 500px;
 	border-style: solid;
 	border-color: gray;
 	border-width: 1px;
@@ -104,5 +104,15 @@ img {
 	body {
 		width: auto;
 		background-image: url('https://i.pinimg.com/736x/c5/e4/9d/c5e49d71d76562e8ceb276aa5a12291c.jpg');
+	}
+	
+	satire {
+		width: 96px;
+		font-size: 55px;
+	}
+	
+	img{
+		height:96px; 
+		width:850px;
 	}
 }
